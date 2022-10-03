@@ -1,6 +1,6 @@
 ### Oi! Meu nome é Gabriela França 👋
 
-- 🔭 Hoje sou estagiária Scuba Team na Alura
+- 🔭 Engenharia de Software
 - 🌱 Estudando Front-End
 - 😄 Pronomes: ela/dela
 
