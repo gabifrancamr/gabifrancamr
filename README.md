@@ -1,8 +1,7 @@
 ### Oi! Meu nome é Gabriela França 👋
 
-- 🔭 Engenharia de Software
-- 🌱 Estudando Front-End
-- 😄 Pronomes: ela/dela
+- 🔭 Sistemas de Informação
+- 🌱 Estudo HTML, CSS, JavaScript, React
 
 <div align="center">
   <a href="https://github.com/gabifrancamr">
