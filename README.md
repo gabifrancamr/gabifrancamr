@@ -1,4 +1,4 @@
-### Oi! Meu nome é Gabriela França 👋
+### Oi! Meu nome é Gabi 👋
 
 - 🔭 Sistemas de Informação
 - 🌱 Estudo HTML, CSS, JavaScript, React
