@@ -1,7 +1,7 @@
 ### Oi! Meu nome é Gabi 👋
 
 - 🔭 Sistemas de Informação
-- 🌱 Estudo HTML, CSS, JavaScript, React
+- 🌱 Estudo HTML, CSS, JavaScript, TypeScript, React
 
 <div align="center">
   <a href="https://github.com/gabifrancamr">
