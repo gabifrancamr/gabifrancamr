@@ -1,4 +1,4 @@
-### Oi! Meu nome é Gabi 👋
+### Hi! My name is Gabi 👋
 
 - 🔭 Information Systems
 - 🌱 HTML, CSS, JavaScript, TypeScript, React
