@@ -1,8 +1,5 @@
 ### Hi! My name is Gabi 👋
 
-- 🔭 Information Systems
-- 🌱 HTML, CSS, JavaScript, TypeScript, React
-
 <div align="center">
   <a href="https://github.com/gabifrancamr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabifrancamr&layout=compact&langs_count=7&theme=monokai"/>
