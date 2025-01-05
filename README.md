@@ -1,5 +1,20 @@
 ### Hi! My name is Gabi 👋
 
+```js
+const myself = {
+    name : 'Gabriela Moura',
+    education: 'Information Systems student',
+    developer: 'Front-End Developer ',
+    skills: [
+     'JavaScript',
+     'Typescript',
+     'React Js',
+     'Next Js',
+     'GIT',
+    ]
+ }
+
+```
 <div align="center">
   <a href="https://github.com/gabifrancamr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabifrancamr&layout=compact&langs_count=7&theme=monokai"/>
