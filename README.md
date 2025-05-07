@@ -3,7 +3,7 @@
 ```js
 const myself = {
     name : 'Gabriela Moura',
-    education: 'Information Systems student',
+    education: 'Computer Science student',
     developer: 'Front-End Developer ',
     skills: [
      'JavaScript',
