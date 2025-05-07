@@ -30,6 +30,6 @@ const myself = {
 
 ##
 <div>
-  <a href="https://www.linkedin.com/in/gabimoacha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
+  <a href="https://www.linkedin.com/in/gabimoacha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-%20%20%20%20%20badge&logo=linkedin&logoColor=white%22%20target=%22_blank" target="_blank" /></a> 
  </div>
 
